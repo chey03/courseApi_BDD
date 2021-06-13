@@ -1,4 +1,6 @@
 Feature: Add a place in google maps
+
+#Adding a comment line
 @addplace
   Scenario : Verify add place is added using addplace ApiGiven Add page payload
   When user calls "add place" api using post request
