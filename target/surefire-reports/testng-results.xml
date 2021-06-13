@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="221" started-at="2021-06-12T19:04:10Z" finished-at="2021-06-12T19:04:10Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="221" started-at="2021-06-12T19:04:10Z" finished-at="2021-06-12T19:04:10Z">
+      <class name="org.bdd.automation.restass.com.AppTest">
+        <test-method status="PASS" signature="shouldAnswerWithTrue()" name="shouldAnswerWithTrue" duration-ms="4" started-at="2021-06-12T19:04:10Z" finished-at="2021-06-12T19:04:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- org.bdd.automation.restass.com.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
